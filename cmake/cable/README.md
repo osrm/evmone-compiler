@@ -97,7 +97,7 @@ Licensed under the [Apache License, Version 2.0].
 [Apache License, Version 2.0]: LICENSE
 [git submodule]: https://git-scm.com/book/en/v2/Git-Tools-Submodules
 [git subtree]: https://github.com/git/git/blob/master/contrib/subtree/git-subtree.txt
-[git subtree tutorial]: https://www.atlassian.com/blog/git/alternatives-to-git-submodule-git-subtree
+[git subtree tutorial]: https://www.atlassian.com/git/tutorials/git-subtree
 [standard readme]: https://github.com/RichardLitt/standard-readme
 
 [readme style standard badge]: https://img.shields.io/badge/readme%20style-standard-brightgreen.svg?style=flat-square
